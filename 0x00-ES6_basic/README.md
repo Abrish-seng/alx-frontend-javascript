@@ -1,1 +1,2 @@
-front end specilization
+0x00. ES6 BASICS
+SHORT SPECAILISATION
